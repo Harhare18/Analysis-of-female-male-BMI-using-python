@@ -1,8 +1,11 @@
 **Title:- Data Analysis of Male-Fmale BMI_2020**
 
-Implemented various Python libraries like Pandas, Numpy, Seaborn, and Matplotlib for Data Analysis of Male-Female BMI.
+**Problem Statement:-** Importance of BMI analysis in healthcare.
+Answer to research question for in depth data analysis.
 
-**Implented Steps:-**
+**Dataset Overview:-** Data source: Kaggle
+Size: 
+
 1. Imported neceaasry packages/libraries of Python.
 2. Loading a dataset as .CVS file name df1(female) and df2(male).
 3. Get pereview of both dataset using .head() method.
