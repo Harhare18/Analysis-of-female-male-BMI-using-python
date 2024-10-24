@@ -6,8 +6,8 @@ Answer to research question for in depth data analysis.
 **Dataset Overview:-** Data source: Kaggle
 Size: 4221 rows and 7 columns (weight,height,upper arm length,upper leg length, arm circumference, hip circumference, waist circumference.
 
-**Methodology:** Data cleaning and preprocessing
-EDA (Exploratory Data Analysis) techniques
-Statistical Overview (mean, median, standard deviation)
-Visualization (e.g. Matplotlib, seaborn)
-Python libraries Used (Pandas, Numpy, Scikit-learn)
+**Methodology:** 1. Data cleaning and preprocessing
+2. EDA (Exploratory Data Analysis) techniques
+3. Statistical Overview (mean, median, standard deviation)
+4. Visualization (e.g. Matplotlib, seaborn)
+5. Python libraries Used (Pandas, Numpy, Scikit-learn)
