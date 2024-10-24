@@ -11,3 +11,8 @@ Size: 4221 rows and 7 columns (weight,height,upper arm length,upper leg length, 
 3. Statistical Overview (mean, median, standard deviation)
 4. Visualization (e.g. Matplotlib, seaborn)
 5. Python libraries Used (Pandas, Numpy, Scikit-learn)
+
+**Result/ Conclusion:** Summary Statistics (Mean, BMI, Standard Deviation) for males and females.
+Visualization (Histogram, Box Plots) illustrating BMI distribution
+Comparison of BMI statistics between genders
+Answer to research question for in Depth Analysis of data
